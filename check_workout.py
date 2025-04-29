@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 # === CONFIG ===
-BOT_TOKEN = "7948211582:AAEbQnVCM-blb6sz9ZuNTnuyxmN98M61PN"
+BOT_TOKEN = "7948211582:AAEbQnVCM-blb6sz9ZuNTnuyxmN98M61PNs"
 CHAT_ID = "1051856867"
 
 def send_telegram_alert(message):
